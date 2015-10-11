@@ -10,6 +10,7 @@ namespace ConsoleTest01
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("정상적으로 되는지 확인");
         }
     }
 }
